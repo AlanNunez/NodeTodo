@@ -1,0 +1,19 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "Vanilla Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanNunez/NodeTodo.git"
+  },
+  "author": "Alan R. Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanNunez/NodeTodo/issues"
+  },
+  "homepage": "https://github.com/AlanNunez/NodeTodo#readme"
+}
